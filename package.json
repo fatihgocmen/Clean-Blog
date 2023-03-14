@@ -1,0 +1,27 @@
+{
+  "devDependencies": {
+    "prettier": "2.8.4"
+  },
+  "name": "cleanblog",
+  "description": "My First Node Blog Page",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fatihgocmen/Clean-Blog.git"
+  },
+  "keywords": [
+    "clean",
+    "blog",
+    "page"
+  ],
+  "author": "Fatih GÖÇMEN",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fatihgocmen/Clean-Blog/issues"
+  },
+  "homepage": "https://github.com/fatihgocmen/Clean-Blog#readme"
+}
